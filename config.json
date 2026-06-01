@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevonnect",
+        "uuid": 14550208,
+        "checksum": "1mfghj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
