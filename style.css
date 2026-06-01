@@ -1,0 +1,7 @@
+body { background: #ebd37d; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 54px; display: flex; }
+.block-payment-0 { color: #85c800; font-size: 17px; margin-bottom: 5px; }
+.block-email-1 { color: #968a29; font-size: 15px; margin-bottom: 5px; }
+.block-token-2 { color: #c134f8; font-size: 20px; margin-bottom: 5px; }
+.block-sms-3 { color: #eebfb0; font-size: 13px; margin-bottom: 5px; }
+.block-product-4 { color: #ea7f86; font-size: 13px; margin-bottom: 5px; }
